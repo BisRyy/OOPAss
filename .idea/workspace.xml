@@ -4,29 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="830ed974-d2ee-4a93-b2f6-c94f8a471ec8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPAss.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q1/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q1/Geometry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q1/Polygon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q1/Quadrilateral.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q1/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q1/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q2/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q2/Cube.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q2/GeometricShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q2/Geometry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q2/Sphere.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q2/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q3.md" afterDir="false" />
+    <list default="true" id="830ed974-d2ee-4a93-b2f6-c94f8a471ec8" name="Changes" comment="OOP Assignment">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Group Work(G2)/Q3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,20 +34,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/bisry/Documents/OOPAss/Java Group Work(G2)&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Java Group Work(G2)" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -75,11 +65,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675601329631</updated>
-      <workItem from="1675601330017" duration="8618000" />
+      <workItem from="1675601330017" duration="10162000" />
+      <workItem from="1675655972536" duration="2449000" />
+      <workItem from="1675673426603" duration="594000" />
+      <workItem from="1676022220980" duration="1377000" />
+      <workItem from="1676491986797" duration="4251000" />
+      <workItem from="1676499697449" duration="683000" />
+      <workItem from="1676509375698" duration="520000" />
     </task>
+    <task id="LOCAL-00001" summary="OOP Assignment">
+      <created>1675613055054</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675613055055</updated>
+    </task>
+    <task id="LOCAL-00002" summary="OOP Assignment">
+      <created>1675613184148</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675613184148</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="OOP Assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP Assignment" />
   </component>
 </project>

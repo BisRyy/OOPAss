@@ -18,6 +18,9 @@ public class Main {
     3.Discuss in detail and give example for java industry standard frameworks and java web services (3 points)
 
     */
+
+
+    static int i = 1;
     public static void main(String[] args) {
 //        Circle circle = new Circle(5);
 //        circle.calculateArea();
@@ -43,25 +46,25 @@ public class Main {
 //        System.out.println("Square area: " + square.getArea());
 //        System.out.println("Square circumference: " + square.getCircumference());
 
-        Sphere sphere = new Sphere(6);
-        System.out.println("Sphere area: " + sphere.calculateArea());
-        System.out.println("Sphere circumference: " + sphere.calculateCircumference());
-        System.out.println("Sphere volume: " + sphere.calculateVolume());
-
-        Cube cube = new Cube(6);
-        System.out.println("Cube area: " + cube.calculateArea());
-        System.out.println("Cube circumference: " + cube.calculateCircumference());
-        System.out.println("Cube volume: " + cube.calculateVolume());
-
-        Square square = new Square(6);
-        System.out.println("Square area: " + square.calculateArea());
-        System.out.println("Square circumference: " + square.calculateCircumference());
-        System.out.println("Square volume: " + square.calculateVolume());
-
-        Circle circle = new Circle(6);
-        System.out.println("Circle area: " + circle.calculateArea());
-        System.out.println("Circle circumference: " + circle.calculateCircumference());
-        System.out.println("Circle volume: " + circle.calculateVolume());
+//        Sphere sphere = new Sphere(6);
+//        System.out.println("Sphere area: " + sphere.calculateArea());
+//        System.out.println("Sphere circumference: " + sphere.calculateCircumference());
+//        System.out.println("Sphere volume: " + sphere.calculateVolume());
+//
+//        Cube cube = new Cube(6);
+//        System.out.println("Cube area: " + cube.calculateArea());
+//        System.out.println("Cube circumference: " + cube.calculateCircumference());
+//        System.out.println("Cube volume: " + cube.calculateVolume());
+//
+//        Square square = new Square(6);
+//        System.out.println("Square area: " + square.calculateArea());
+//        System.out.println("Square circumference: " + square.calculateCircumference());
+//        System.out.println("Square volume: " + square.calculateVolume());
+//
+//        Circle circle = new Circle(6);
+//        System.out.println("Circle area: " + circle.calculateArea());
+//        System.out.println("Circle circumference: " + circle.calculateCircumference());
+//        System.out.println("Circle volume: " + circle.calculateVolume());
 
     }
 }
