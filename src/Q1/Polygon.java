@@ -1,3 +1,5 @@
+package Q1;
+
 public class Polygon extends Geometry{
     private double length;
     private double width;

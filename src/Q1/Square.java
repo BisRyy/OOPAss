@@ -1,3 +1,5 @@
+package Q1;
+
 public class Square extends Geometry{
     private double length;
 

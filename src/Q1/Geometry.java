@@ -1,3 +1,5 @@
+package Q1;
+
 public abstract class Geometry {
 
     double area;
